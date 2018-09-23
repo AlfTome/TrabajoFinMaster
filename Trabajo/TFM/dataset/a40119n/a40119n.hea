@@ -1,0 +1,15 @@
+a40119n 11 0.016666666667 11756 10:42:00 25/05/2010
+a40119n.dat 16 10/bpm 16 0 926 -19324 0 HR
+a40119n.dat 16 10/mmHg 16 0 1464 23614 0 ABPSys
+a40119n.dat 16 10/mmHg 16 0 783 -16793 0 ABPDias
+a40119n.dat 16 10/mmHg 16 0 1075 -8806 0 ABPMean
+a40119n.dat 16 10/mmHg 16 0 172 -21110 0 CVP
+a40119n.dat 16 10/bpm 16 0 908 1346 0 PULSE
+a40119n.dat 16 10/pm 16 0 280 -8842 0 RESP
+a40119n.dat 16 10/% 16 0 990 -4054 0 SpO2
+a40119n.dat 16 1/mmHg 16 0 -32768 -30921 0 NBPSys
+a40119n.dat 16 1/mmHg 16 0 -32768 -31813 0 NBPDias
+a40119n.dat 16 1/mmHg 16 0 -32768 -31318 0 NBPMean
+# age:  66   sex:  F
+# see also mimic2db/a40119/a40119 (waveforms)
+# see also mimic2cdb/s23594 (clinical data)

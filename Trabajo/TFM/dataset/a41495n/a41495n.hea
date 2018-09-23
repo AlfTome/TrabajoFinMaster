@@ -1,0 +1,13 @@
+a41495n 8 0.016666666667 1706 22:27:00 26/06/2015
+a41495n.dat 16 10/bpm 16 0 -327680 -2112 0 HR
+a41495n.dat 16 10/mmHg 16 0 -327680 -15455 0 ABPSys
+a41495n.dat 16 10/mmHg 16 0 -327680 -26792 0 ABPDias
+a41495n.dat 16 10/mmHg 16 0 -327680 32359 0 ABPMean
+a41495n.dat 16 10/mmHg 16 0 -327680 18109 0 CVP
+a41495n.dat 16 10/bpm 16 0 -327680 31769 0 PULSE
+a41495n.dat 16 10/pm 16 0 -327680 -28115 0 RESP
+a41495n.dat 16 10/% 16 0 -327680 -22493 0 SpO2
+# age:  46   sex:  M
+# see also mimic2db/a41495/a41495 (waveforms)
+# see also mimic2cdb/s03133 (clinical data)
+# other records of this subject: a40947 

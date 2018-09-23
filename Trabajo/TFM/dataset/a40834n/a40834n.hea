@@ -1,0 +1,20 @@
+a40834n 15 0.016666666667 4294 10:36:00 31/05/2011
+a40834n.dat 16 10/bpm 16 0 -327680 -4248 0 HR
+a40834n.dat 16 10/mmHg 16 0 -327680 17968 0 ABPSys
+a40834n.dat 16 10/mmHg 16 0 -327680 -19019 0 ABPDias
+a40834n.dat 16 10/mmHg 16 0 -327680 -13725 0 ABPMean
+a40834n.dat 16 10/mmHg 16 0 -327680 17223 0 PAPSys
+a40834n.dat 16 10/mmHg 16 0 -327680 -32619 0 PAPDias
+a40834n.dat 16 10/mmHg 16 0 -327680 27919 0 PAPMean
+a40834n.dat 16 10/mmHg 16 0 -327680 -31823 0 CVP
+a40834n.dat 16 10/bpm 16 0 -327680 -11666 0 PULSE
+a40834n.dat 16 10/pm 16 0 -327680 -25202 0 RESP
+a40834n.dat 16 10/% 16 0 -327680 -24286 0 SpO2
+a40834n.dat 16 1/mmHg 16 0 -32768 1997 0 NBPSys
+a40834n.dat 16 1/mmHg 16 0 -32768 1014 0 NBPDias
+a40834n.dat 16 1/mmHg 16 0 -32768 1368 0 NBPMean
+a40834n.dat 16 100/Lpm 16 0 -3276800 9958 0 CO
+# age:  40   sex:  M
+# see also mimic2db/a40834/a40834 (waveforms)
+# see also mimic2cdb/s05336 (clinical data)
+# other records of this subject: a40957 

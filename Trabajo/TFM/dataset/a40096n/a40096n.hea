@@ -1,0 +1,11 @@
+a40096n 7 0.016666666667 2853 14:12:00 20/11/2008
+a40096n.dat 16 10/bpm 16 0 1136 17099 0 HR
+a40096n.dat 16 10/mmHg 16 0 1013 -2266 0 ABPSys
+a40096n.dat 16 10/mmHg 16 0 616 -23330 0 ABPDias
+a40096n.dat 16 10/mmHg 16 0 752 -6905 0 ABPMean
+a40096n.dat 16 10/bpm 16 0 897 12301 0 PULSE
+a40096n.dat 16 10/pm 16 0 193 21014 0 RESP
+a40096n.dat 16 10/% 16 0 985 -21924 0 SpO2
+# age:  75   sex:  F
+# see also mimic2db/a40096/a40096 (waveforms)
+# see also mimic2cdb/s19603 (clinical data)

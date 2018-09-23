@@ -1,0 +1,14 @@
+a40172n 10 0.016666666667 8340 17:21:00 30/10/2015
+a40172n.dat 16 10/bpm 16 0 -327680 13005 0 HR
+a40172n.dat 16 10/mmHg 16 0 -327680 23094 0 ABPSys
+a40172n.dat 16 10/mmHg 16 0 -327680 -19121 0 ABPDias
+a40172n.dat 16 10/mmHg 16 0 -327680 28039 0 ABPMean
+a40172n.dat 16 10/bpm 16 0 -327680 9730 0 PULSE
+a40172n.dat 16 10/pm 16 0 -327680 27448 0 RESP
+a40172n.dat 16 10/% 16 0 -327680 -2546 0 SpO2
+a40172n.dat 16 1/mmHg 16 0 -32768 11602 0 NBPSys
+a40172n.dat 16 1/mmHg 16 0 -32768 5403 0 NBPDias
+a40172n.dat 16 1/mmHg 16 0 -32768 7644 0 NBPMean
+# age:  90+   sex:  F
+# see also mimic2db/a40172/a40172 (waveforms)
+# see also mimic2cdb/s15687 (clinical data)

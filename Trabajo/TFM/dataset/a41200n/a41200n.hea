@@ -1,0 +1,16 @@
+a41200n 11 0.016666666667 10025 17:37:00 03/04/2015
+a41200n.dat 16 10/bpm 16 0 820 -2646 0 HR
+a41200n.dat 16 10/mmHg 16 0 841 -21980 0 ABPSys
+a41200n.dat 16 10/mmHg 16 0 419 -990 0 ABPDias
+a41200n.dat 16 10/mmHg 16 0 556 -3697 0 ABPMean
+a41200n.dat 16 10/mmHg 16 0 -327680 10106 0 CVP
+a41200n.dat 16 10/bpm 16 0 782 25505 0 PULSE
+a41200n.dat 16 10/pm 16 0 202 13648 0 RESP
+a41200n.dat 16 10/% 16 0 940 -5145 0 SpO2
+a41200n.dat 16 1/mmHg 16 0 -32768 22538 0 NBPSys
+a41200n.dat 16 1/mmHg 16 0 -32768 8309 0 NBPDias
+a41200n.dat 16 1/mmHg 16 0 -32768 13182 0 NBPMean
+# age:  88   sex:  M
+# see also mimic2db/a41200/a41200 (waveforms)
+# see also mimic2cdb/s08718 (clinical data)
+# other records of this subject: a40717 

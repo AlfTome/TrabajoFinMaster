@@ -1,0 +1,12 @@
+a41664n 7 0.016666666667 2127 17:01:00 19/01/2016
+a41664n.dat 16 10/bpm 16 0 -327680 27161 0 HR
+a41664n.dat 16 10/mmHg 16 0 -327680 17845 0 ABPSys
+a41664n.dat 16 10/mmHg 16 0 -327680 12426 0 ABPDias
+a41664n.dat 16 10/mmHg 16 0 -327680 -6849 0 ABPMean
+a41664n.dat 16 10/bpm 16 0 -327680 22773 0 PULSE
+a41664n.dat 16 10/pm 16 0 -327680 -12061 0 RESP
+a41664n.dat 16 10/% 16 0 -327680 -8444 0 SpO2
+# age:  58   sex:  M
+# see also mimic2db/a41664/a41664 (waveforms)
+# see also mimic2cdb/s02280 (clinical data)
+# other records of this subject: a40937 a41645 

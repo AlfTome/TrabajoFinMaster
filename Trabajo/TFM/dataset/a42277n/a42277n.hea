@@ -1,0 +1,16 @@
+a42277n 11 0.016666666667 6487  06:25:00 10/09/2017
+a42277n.dat 16 10/bpm 16 0 -327680 -27496 0 HR
+a42277n.dat 16 10/mmHg 16 0 -327680 19597 0 ABPSys
+a42277n.dat 16 10/mmHg 16 0 -327680 27517 0 ABPDias
+a42277n.dat 16 10/mmHg 16 0 -327680 1643 0 ABPMean
+a42277n.dat 16 10/mmHg 16 0 -327680 5548 0 CVP
+a42277n.dat 16 10/bpm 16 0 -327680 -30769 0 PULSE
+a42277n.dat 16 10/pm 16 0 -327680 30155 0 RESP
+a42277n.dat 16 10/% 16 0 -327680 -367 0 SpO2
+a42277n.dat 16 1/mmHg 16 0 -32768 -29848 0 NBPSys
+a42277n.dat 16 1/mmHg 16 0 -32768 -31522 0 NBPDias
+a42277n.dat 16 1/mmHg 16 0 -32768 -30960 0 NBPMean
+# age:  53   sex:  M
+# see also mimic2db/a42277/a42277 (waveforms)
+# see also mimic2cdb/s07125 (clinical data)
+# other records of this subject: a41360 

@@ -1,0 +1,15 @@
+a40473n 11 0.016666666667 5394 18:57:00 25/03/2010
+a40473n.dat 16 10/bpm 16 0 -327680 19647 0 HR
+a40473n.dat 16 10/mmHg 16 0 -327680 -12132 0 ABPSys
+a40473n.dat 16 10/mmHg 16 0 -327680 29306 0 ABPDias
+a40473n.dat 16 10/mmHg 16 0 -327680 -20338 0 ABPMean
+a40473n.dat 16 10/mmHg 16 0 -327680 17451 0 CVP
+a40473n.dat 16 10/bpm 16 0 -327680 -18385 0 PULSE
+a40473n.dat 16 10/pm 16 0 -327680 8167 0 RESP
+a40473n.dat 16 10/% 16 0 -327680 -18494 0 SpO2
+a40473n.dat 16 1/mmHg 16 0 -32768 -26778 0 NBPSys
+a40473n.dat 16 1/mmHg 16 0 -32768 -30002 0 NBPDias
+a40473n.dat 16 1/mmHg 16 0 -32768 -28934 0 NBPMean
+# age:  57   sex:  F
+# see also mimic2db/a40473/a40473 (waveforms)
+# see also mimic2cdb/s04860 (clinical data)

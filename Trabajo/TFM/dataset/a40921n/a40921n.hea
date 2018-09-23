@@ -1,0 +1,11 @@
+a40921n 7 0.016666666667 1746 14:56:00 05/10/2015
+a40921n.dat 16 10/bpm 16 0 -327680 -28195 0 HR
+a40921n.dat 16 10/mmHg 16 0 -327680 5896 0 ABPSys
+a40921n.dat 16 10/mmHg 16 0 -327680 -22227 0 ABPDias
+a40921n.dat 16 10/mmHg 16 0 -327680 -4788 0 ABPMean
+a40921n.dat 16 10/bpm 16 0 -327680 1924 0 PULSE
+a40921n.dat 16 10/pm 16 0 -327680 1355 0 RESP
+a40921n.dat 16 10/% 16 0 -327680 -28594 0 SpO2
+# age:  59   sex:  M
+# see also mimic2db/a40921/a40921 (waveforms)
+# see also mimic2cdb/s14495 (clinical data)

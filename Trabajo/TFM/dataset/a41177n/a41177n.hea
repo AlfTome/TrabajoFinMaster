@@ -1,0 +1,11 @@
+a41177n 7 0.016666666667 3699 14:49:00 27/02/2017
+a41177n.dat 16 10/bpm 16 0 -327680 24960 0 HR
+a41177n.dat 16 10/mmHg 16 0 -327680 6829 0 ABPSys
+a41177n.dat 16 10/mmHg 16 0 -327680 -5432 0 ABPDias
+a41177n.dat 16 10/mmHg 16 0 -327680 -627 0 ABPMean
+a41177n.dat 16 10/bpm 16 0 -327680 -25420 0 PULSE
+a41177n.dat 16 10/pm 16 0 -327680 -9378 0 RESP
+a41177n.dat 16 10/% 16 0 -327680 -6704 0 SpO2
+# age:  47   sex:  M
+# see also mimic2db/a41177/a41177 (waveforms)
+# see also mimic2cdb/s26296 (clinical data)

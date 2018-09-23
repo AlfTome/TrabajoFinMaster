@@ -1,0 +1,15 @@
+a42397n 11 0.016666666667 18804 18:50:00 13/10/2010
+a42397n.dat 16 10/bpm 16 0 746 15719 0 HR
+a42397n.dat 16 10/mmHg 16 0 1139 -23005 0 ABPSys
+a42397n.dat 16 10/mmHg 16 0 529 -2372 0 ABPDias
+a42397n.dat 16 10/mmHg 16 0 728 -19321 0 ABPMean
+a42397n.dat 16 10/mmHg 16 0 -327680 7698 0 CVP
+a42397n.dat 16 10/bpm 16 0 636 -9441 0 PULSE
+a42397n.dat 16 10/pm 16 0 149 23190 0 RESP
+a42397n.dat 16 10/% 16 0 1000 -9447 0 SpO2
+a42397n.dat 16 1/mmHg 16 0 -32768 -20517 0 NBPSys
+a42397n.dat 16 1/mmHg 16 0 -32768 -28217 0 NBPDias
+a42397n.dat 16 1/mmHg 16 0 -32768 -25713 0 NBPMean
+# age:  78   sex:  F
+# see also mimic2db/a42397/a42397 (waveforms)
+# see also mimic2cdb/s19208 (clinical data)

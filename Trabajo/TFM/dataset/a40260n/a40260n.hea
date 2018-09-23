@@ -1,0 +1,16 @@
+a40260n 12 0.016666666667 2861 10:57:00 23/03/2015
+a40260n.dat 16 10/bpm 16 0 -327680 2178 0 HR
+a40260n.dat 16 10/mmHg 16 0 -327680 -22157 0 ABPSys
+a40260n.dat 16 10/mmHg 16 0 -327680 -25892 0 ABPDias
+a40260n.dat 16 10/mmHg 16 0 -327680 -986 0 ABPMean
+a40260n.dat 16 10/mmHg 16 0 -327680 -469 0 PAPMean
+a40260n.dat 16 10/mmHg 16 0 -327680 -23540 0 CVP
+a40260n.dat 16 10/bpm 16 0 -327680 -20345 0 PULSE
+a40260n.dat 16 10/pm 16 0 -327680 20416 0 RESP
+a40260n.dat 16 10/% 16 0 -327680 121 0 SpO2
+a40260n.dat 16 1/mmHg 16 0 -32768 285 0 NBPSys
+a40260n.dat 16 1/mmHg 16 0 -32768 91 0 NBPDias
+a40260n.dat 16 1/mmHg 16 0 -32768 156 0 NBPMean
+# age:  90+   sex:  F
+# see also mimic2db/a40260/a40260 (waveforms)
+# see also mimic2cdb/s16019 (clinical data)

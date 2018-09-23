@@ -1,0 +1,15 @@
+a40127n 11 0.016666666667 35896 22:40:00 06/09/2009
+a40127n.dat 16 10/bpm 16 0 -327680 2168 0 HR
+a40127n.dat 16 10/mmHg 16 0 -327680 26156 0 ABPSys
+a40127n.dat 16 10/mmHg 16 0 -327680 -27503 0 ABPDias
+a40127n.dat 16 10/mmHg 16 0 -327680 -19716 0 ABPMean
+a40127n.dat 16 10/mmHg 16 0 -327680 -29877 0 CVP
+a40127n.dat 16 10/bpm 16 0 -327680 -8636 0 PULSE
+a40127n.dat 16 10/pm 16 0 -327680 20836 0 RESP
+a40127n.dat 16 10/% 16 0 -327680 -13564 0 SpO2
+a40127n.dat 16 1/mmHg 16 0 -32768 17267 0 NBPSys
+a40127n.dat 16 1/mmHg 16 0 -32768 -11426 0 NBPDias
+a40127n.dat 16 1/mmHg 16 0 -32768 -2040 0 NBPMean
+# age:  56   sex:  M
+# see also mimic2db/a40127/a40127 (waveforms)
+# see also mimic2cdb/s24984 (clinical data)

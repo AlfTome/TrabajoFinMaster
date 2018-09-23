@@ -1,0 +1,13 @@
+a40125n 9 0.016666666667 8280 20:26:00 06/08/2012
+a40125n.dat 16 10/bpm 16 0 -327680 28540 0 HR
+a40125n.dat 16 10/mmHg 16 0 -327680 7390 0 ABPSys
+a40125n.dat 16 10/mmHg 16 0 -327680 26996 0 ABPDias
+a40125n.dat 16 10/mmHg 16 0 -327680 -24404 0 ABPMean
+a40125n.dat 16 10/bpm 16 0 -327680 14115 0 PULSE
+a40125n.dat 16 10/% 16 0 -327680 -8531 0 SpO2
+a40125n.dat 16 1/mmHg 16 0 -32768 13602 0 NBPSys
+a40125n.dat 16 1/mmHg 16 0 -32768 6393 0 NBPDias
+a40125n.dat 16 1/mmHg 16 0 -32768 8847 0 NBPMean
+# age:  73   sex:  F
+# see also mimic2db/a40125/a40125 (waveforms)
+# see also mimic2cdb/s21817 (clinical data)

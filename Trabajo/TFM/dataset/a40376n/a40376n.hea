@@ -1,0 +1,16 @@
+a40376n 12 0.016666666667 33132 10:41:00 30/04/2011
+a40376n.dat 16 10/bpm 16 0 863 -19227 0 HR
+a40376n.dat 16 10/mmHg 16 0 1201 -7681 0 ABPSys
+a40376n.dat 16 10/mmHg 16 0 595 -14221 0 ABPDias
+a40376n.dat 16 10/mmHg 16 0 807 -5356 0 ABPMean
+a40376n.dat 16 10/mmHg 16 0 -327680 23698 0 CVP
+a40376n.dat 16 10/bpm 16 0 864 -4838 0 PULSE
+a40376n.dat 16 10/pm 16 0 231 9719 0 RESP
+a40376n.dat 16 10/% 16 0 997 25127 0 SpO2
+a40376n.dat 16 100/mV 16 0 -3276800 -3375 0 ST_I
+a40376n.dat 16 1/mmHg 16 0 -32768 -9704 0 NBPSys
+a40376n.dat 16 1/mmHg 16 0 -32768 -22362 0 NBPDias
+a40376n.dat 16 1/mmHg 16 0 -32768 -18187 0 NBPMean
+# age:  62   sex:  F
+# see also mimic2db/a40376/a40376 (waveforms)
+# see also mimic2cdb/s09341 (clinical data)

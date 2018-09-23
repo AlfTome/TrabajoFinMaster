@@ -1,0 +1,15 @@
+a42259n 10 0.016666666667 1590 12:33:00 31/01/2013
+a42259n.dat 16 10/bpm 16 0 962 15189 0 HR
+a42259n.dat 16 10/mmHg 16 0 1401 32663 0 ABPSys
+a42259n.dat 16 10/mmHg 16 0 681 -32165 0 ABPDias
+a42259n.dat 16 10/mmHg 16 0 1035 27538 0 ABPMean
+a42259n.dat 16 10/mmHg 16 0 606 -12969 0 PAPSys
+a42259n.dat 16 10/mmHg 16 0 402 -27593 0 PAPDias
+a42259n.dat 16 10/mmHg 16 0 489 -15901 0 PAPMean
+a42259n.dat 16 10/bpm 16 0 -327680 13715 0 PULSE
+a42259n.dat 16 10/pm 16 0 229 -11210 0 RESP
+a42259n.dat 16 10/% 16 0 -327680 -11418 0 SpO2
+# age:  67   sex:  M
+# see also mimic2db/a42259/a42259 (waveforms)
+# see also mimic2cdb/s15465 (clinical data)
+# other records of this subject: a40179 a41020 

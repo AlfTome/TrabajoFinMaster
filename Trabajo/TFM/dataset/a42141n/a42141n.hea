@@ -1,0 +1,14 @@
+a42141n 10 0.016666666667 3037 18:56:00 06/01/2011
+a42141n.dat 16 10/bpm 16 0 -327680 3037 0 HR
+a42141n.dat 16 10/mmHg 16 0 -327680 -16877 0 ABPSys
+a42141n.dat 16 10/mmHg 16 0 -327680 19597 0 ABPDias
+a42141n.dat 16 10/mmHg 16 0 -327680 -11172 0 ABPMean
+a42141n.dat 16 10/bpm 16 0 -327680 -28849 0 PULSE
+a42141n.dat 16 10/pm 16 0 -327680 -9647 0 RESP
+a42141n.dat 16 10/% 16 0 -327680 1969 0 SpO2
+a42141n.dat 16 1/mmHg 16 0 -32768 -32516 0 NBPSys
+a42141n.dat 16 1/mmHg 16 0 -32768 -32627 0 NBPDias
+a42141n.dat 16 1/mmHg 16 0 -32768 -32589 0 NBPMean
+# age:  39   sex:  F
+# see also mimic2db/a42141/a42141 (waveforms)
+# see also mimic2cdb/s19418 (clinical data)

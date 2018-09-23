@@ -1,0 +1,12 @@
+a40551n 8 0.016666666667 11755 10:44:00 01/04/2014
+a40551n.dat 16 10/bpm 16 0 686 -13116 0 HR
+a40551n.dat 16 10/mmHg 16 0 1145 8441 0 ABPSys
+a40551n.dat 16 10/mmHg 16 0 576 -10085 0 ABPDias
+a40551n.dat 16 10/mmHg 16 0 784 9659 0 ABPMean
+a40551n.dat 16 10/mmHg 16 0 203 -24431 0 CVP
+a40551n.dat 16 10/bpm 16 0 687 -18753 0 PULSE
+a40551n.dat 16 10/pm 16 0 221 23944 0 RESP
+a40551n.dat 16 10/% 16 0 981 1367 0 SpO2
+# age:  42   sex:  F
+# see also mimic2db/a40551/a40551 (waveforms)
+# see also mimic2cdb/s26097 (clinical data)

@@ -1,0 +1,15 @@
+a41137n 10 0.016666666667 1093 12:19:00 07/08/2015
+a41137n.dat 16 10/bpm 16 0 585 -11164 0 HR
+a41137n.dat 16 10/mmHg 16 0 1383 14099 0 ABPSys
+a41137n.dat 16 10/mmHg 16 0 780 31848 0 ABPDias
+a41137n.dat 16 10/mmHg 16 0 998 -959 0 ABPMean
+a41137n.dat 16 10/bpm 16 0 -327680 12178 0 PULSE
+a41137n.dat 16 10/pm 16 0 104 -13877 0 RESP
+a41137n.dat 16 10/% 16 0 -327680 10105 0 SpO2
+a41137n.dat 16 1/mmHg 16 0 -32768 293 0 NBPSys
+a41137n.dat 16 1/mmHg 16 0 -32768 142 0 NBPDias
+a41137n.dat 16 1/mmHg 16 0 -32768 194 0 NBPMean
+# age:  48   sex:  M
+# see also mimic2db/a41137/a41137 (waveforms)
+# see also mimic2cdb/s22888 (clinical data)
+# other records of this subject: a40456 

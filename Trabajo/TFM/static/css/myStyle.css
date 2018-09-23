@@ -1,0 +1,336 @@
+body{
+	width: auto;
+	overflow-y: auto;
+	overflow-x: hidden;
+}
+
+.container {
+	max-width: 100%;
+	padding-right: 0px;
+	padding-left: 0px;
+}
+
+.ImagenSegunSexo{
+	text-align: center;
+}
+
+.ImagenSegunSexoImg {
+	margin-top: 2.5em;
+	height: 18em;
+	width: 10em;
+	margin-left: 6%;
+}
+
+.btn-sexo{
+	text-align: center;
+}
+
+.grupo-sexo{
+	width: 90%;
+}
+
+.input-nombre-paciente{
+	margin-top: 1.5em;
+	width: 90%;
+	margin-left: 5%;
+}
+
+.input-fecha-edad-paciente{
+	margin-top: 0.3em;
+	width: 90%;
+	margin-left: 5%;
+}
+
+.titulo{
+	color: #155dab;
+	font-size: 1.15em;
+	font-weight: bold;
+}
+
+.label-sexo{
+	width: 90%;
+	margin-top: 2em;
+	text-align: left;
+}
+
+.btn-predecir{
+	width: 90%;
+	margin-left: 8%;
+	margin-top: 1.6em;
+	background-color: #3E6085;
+	border-color: #3E6085;
+	color: white;
+}
+
+.nav{
+	background-color: #155dab;
+}
+
+.nav-item{
+	padding: 0.8em;
+}
+
+.nav-link{
+	color: white;
+	font-weight: bold;
+	font-size:1.05em;
+}
+
+.nav-link:hover{
+	font-weight: bold;
+	color: white;
+	text-decoration: underline;
+}
+
+.row-img{
+	height: 75%
+}
+
+.sorting_disabled{
+	color: #155dab;
+}
+
+.highcharts-root{
+	width: 98%;
+}
+
+.highcharts-container {
+	text-align: center !important;
+}
+
+.slider-cbr{
+	width: 100%;
+	margin-bottom: 2%;
+	margin-top: -1%;
+}
+
+.ui-dialog {
+    border-radius: 6px !important;
+	width: 35% !important;
+    left: 32.5% !important;
+}
+
+.ui-autocomplete {
+	max-height: 40%;
+	overflow-y: scroll;
+	overflow-x: hidden;
+}
+
+.imgTick{
+	width: 2em;
+}
+
+.highcharts-title{
+	display: none;
+}
+
+.ui-slider-handle{
+	border-radius: 100%;
+	background-color: #447DDF !important;
+}
+
+.ui-slider-handle{
+	width: 1.7em !important;
+    height: 1.7em !important;
+	top: -.5em !important;
+}
+
+.btn-secondary:not(:disabled):not(.disabled).active{
+	background-color: #527aec;
+    border-color: #527aec;
+}
+
+.btn-secondary {
+    color: #fff;
+    background-color: #A4B9F5;
+    border-color: #A4B9F5;
+}
+
+.btn-secondary:hover {
+    color: #fff;
+	background-color: #527aec;
+    border-color: #527aec
+}
+
+.botoneraConfig{
+	text-align: right;
+}
+
+.card-body{
+	text-align: center;
+}
+
+.card{
+	background-color: #FFF6C6;
+}
+
+.ImagenExclamacion{
+    height: 50px;
+}
+
+.sufreTabla, .sexoTabla, .edadTabla{
+	margin-bottom: 0px;
+}
+
+.transparente{
+	background-color: rgba(66,123,220,0.00)
+}
+
+#arrowTurn{
+	width: 1.1em;
+}
+
+#arrowTurn:hover{
+	cursor: pointer;
+}
+
+#hombre, #mujer{
+	text-align: center;
+	width: 100%;
+}
+
+#datepicker, #edadPaciente{
+	border: 1px solid #ced4da;
+	padding: .375rem .75rem;
+	font-size: 1rem;
+	line-height: 1.5;
+	border-radius: .25rem;
+}
+
+#table_id_wrapper{
+	width: 95%;
+	margin: 2%;
+}
+
+#grafica{
+	width: 95%;
+}
+
+#pacienteConfiguracion{
+	width: 100%;
+}
+
+#amount-edad, #amount-sexo, #amount-enfermedades{
+	background: white;
+}
+
+#pacienteSimilar, #buscarEnAnios{
+	margin-top: 2.5%;
+	font-size: 120%;
+}
+
+#botonera {
+	padding-right: 0;
+}
+
+#parteIzquierda{
+	width: 95%;   
+    padding-top: 1%;
+	background-color: #f8f8f8;
+	padding-right: 2%;
+    padding-left: 2.8%;
+	border-right: 4px solid #155dab;
+}
+
+#cargando{
+	border: solid 1px black;
+	border-radius: 5%;
+	position:absolute;
+	top: 40%;
+    left: 30%;
+    right: 30%;
+	background: rgba(90, 150, 223, 0.72);
+	padding-left: 2%;
+	padding-right: 2%;
+	padding-top: 1%;
+	text-align: center;
+}
+
+#ocultar{
+	width: 100%;
+	min-height: 100%;
+	height: auto !important;
+	position: fixed;
+	top: 0; 
+	left: 0;
+	background-color: rgba(73,70,70,0.82);
+}
+
+#cargando p{
+	font-size: 125%;
+	color: antiquewhite;
+}
+
+#imagenCargando{
+	width: 10%;
+    height: 10%;
+	margin-bottom: 5%;
+}
+
+#parteDerecha{
+	overflow-x: auto;
+	overflow-y: auto;
+	padding-top: 2%;
+	height: 90vh;
+	margin: 0px;
+}
+
+#table_id_wrapper{
+	padding-top: 6%;
+}
+
+table{
+	background-color: white;
+	text-align: center;
+	border-collapse: collapse;
+	width: 100%
+}
+
+th, td{
+	padding: 20px;
+}
+
+thead{
+	background-color: #3a74ca;
+	color: white;
+}
+
+#tabla_enfermedades_similares tr:nth-child(even){
+	background-color: #ddd;
+}
+
+#tabla_enfermedades_similares tr:hover td{
+	background-color: #a3c5f8;
+	color: white;
+}
+
+#datosPacientes tr:nth-child(even){
+	background-color: #ddd;
+}
+
+#datosPacientes tr:hover td{
+	background-color: #a3c5f8;
+	color: white;
+}
+
+#filaDatosPaciente td{
+	padding-right: 5px;
+    padding-left: 5px;
+}
+
+#cabeceraEnfermedades{
+	white-space: nowrap;
+}
+
+@media(max-width:860px){
+	#cargando{
+		top: 50%;
+		left: 25%;
+		right: 25%;
+	}
+	
+	#imagenCargando{
+		width: 15%;
+   		height: 15%;
+	}
+}

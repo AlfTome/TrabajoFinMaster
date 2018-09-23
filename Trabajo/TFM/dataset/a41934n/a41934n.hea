@@ -1,0 +1,18 @@
+a41934n 13 0.016666666667 2503 13:18:00 29/07/2015
+a41934n.dat 16 10/bpm 16 0 829 -27329 0 HR
+a41934n.dat 16 10/mmHg 16 0 1216 22804 0 ABPSys
+a41934n.dat 16 10/mmHg 16 0 757 15093 0 ABPDias
+a41934n.dat 16 10/mmHg 16 0 944 767 0 ABPMean
+a41934n.dat 16 10/mmHg 16 0 437 22866 0 PAPSys
+a41934n.dat 16 10/mmHg 16 0 176 530 0 PAPDias
+a41934n.dat 16 10/mmHg 16 0 283 23982 0 PAPMean
+a41934n.dat 16 10/bpm 16 0 844 -28720 0 PULSE
+a41934n.dat 16 10/pm 16 0 205 -28868 0 RESP
+a41934n.dat 16 10/% 16 0 960 16101 0 SpO2
+a41934n.dat 16 1/mmHg 16 0 -32768 336 0 NBPSys
+a41934n.dat 16 1/mmHg 16 0 -32768 195 0 NBPDias
+a41934n.dat 16 1/mmHg 16 0 -32768 247 0 NBPMean
+# age:  46   sex:  F
+# see also mimic2db/a41934/a41934 (waveforms)
+# see also mimic2cdb/s09672 (clinical data)
+# other records of this subject: a42008 

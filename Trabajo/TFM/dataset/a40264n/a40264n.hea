@@ -1,0 +1,14 @@
+a40264n 10 0.016666666667 13979 20:31:00 21/10/2016
+a40264n.dat 16 10/bpm 16 0 -327680 22422 0 HR
+a40264n.dat 16 10/mmHg 16 0 -327680 5601 0 ABPSys
+a40264n.dat 16 10/mmHg 16 0 -327680 12481 0 ABPDias
+a40264n.dat 16 10/mmHg 16 0 -327680 11944 0 ABPMean
+a40264n.dat 16 10/bpm 16 0 -327680 8284 0 PULSE
+a40264n.dat 16 10/pm 16 0 -327680 -45 0 RESP
+a40264n.dat 16 10/% 16 0 -327680 -11760 0 SpO2
+a40264n.dat 16 1/mmHg 16 0 -32768 9347 0 NBPSys
+a40264n.dat 16 1/mmHg 16 0 -32768 -9611 0 NBPDias
+a40264n.dat 16 1/mmHg 16 0 -32768 29979 0 NBPMean
+# age:  61   sex:  M
+# see also mimic2db/a40264/a40264 (waveforms)
+# see also mimic2cdb/s04286 (clinical data)

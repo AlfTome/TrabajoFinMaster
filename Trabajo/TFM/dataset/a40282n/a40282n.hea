@@ -1,0 +1,15 @@
+a40282n 10 0.016666666667 2370 21:14:00 29/06/2016
+a40282n.dat 16 10/bpm 16 0 -327680 7138 0 HR
+a40282n.dat 16 10/mmHg 16 0 -327680 -19031 0 ABPSys
+a40282n.dat 16 10/mmHg 16 0 -327680 -14951 0 ABPDias
+a40282n.dat 16 10/mmHg 16 0 -327680 -28371 0 ABPMean
+a40282n.dat 16 10/bpm 16 0 -327680 13755 0 PULSE
+a40282n.dat 16 10/pm 16 0 -327680 -12657 0 RESP
+a40282n.dat 16 10/% 16 0 -327680 -7990 0 SpO2
+a40282n.dat 16 1/mmHg 16 0 -32768 -31984 0 NBPSys
+a40282n.dat 16 1/mmHg 16 0 -32768 -32376 0 NBPDias
+a40282n.dat 16 1/mmHg 16 0 -32768 -32245 0 NBPMean
+# age:  51   sex:  M
+# see also mimic2db/a40282/a40282 (waveforms)
+# see also mimic2cdb/s17765 (clinical data)
+# other records of this subject: a42261 

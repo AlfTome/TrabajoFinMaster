@@ -1,0 +1,15 @@
+a40439n 11 0.016666666667 22143 21:58:00 28/08/2008
+a40439n.dat 16 10/bpm 16 0 669 20369 0 HR
+a40439n.dat 16 10/mmHg 16 0 -327680 -3228 0 ABPSys
+a40439n.dat 16 10/mmHg 16 0 -327680 -17441 0 ABPDias
+a40439n.dat 16 10/mmHg 16 0 -327680 4521 0 ABPMean
+a40439n.dat 16 10/mmHg 16 0 -327680 -32286 0 CVP
+a40439n.dat 16 10/bpm 16 0 -327680 -9039 0 PULSE
+a40439n.dat 16 10/pm 16 0 150 25227 0 RESP
+a40439n.dat 16 10/% 16 0 -327680 17514 0 SpO2
+a40439n.dat 16 1/mmHg 16 0 -32768 12817 0 NBPSys
+a40439n.dat 16 1/mmHg 16 0 -32768 6609 0 NBPDias
+a40439n.dat 16 1/mmHg 16 0 -32768 8793 0 NBPMean
+# age:  75   sex:  M
+# see also mimic2db/a40439/a40439 (waveforms)
+# see also mimic2cdb/s21775 (clinical data)

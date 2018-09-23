@@ -1,0 +1,15 @@
+a41925n 10 0.016666666667 15717 19:16:00 19/09/2012
+a41925n.dat 16 10/bpm 16 0 1070 32712 0 HR
+a41925n.dat 16 10/mmHg 16 0 -327680 1727 0 ABPSys
+a41925n.dat 16 10/mmHg 16 0 -327680 4440 0 ABPDias
+a41925n.dat 16 10/mmHg 16 0 -327680 20847 0 ABPMean
+a41925n.dat 16 10/bpm 16 0 -327680 20804 0 PULSE
+a41925n.dat 16 10/pm 16 0 244 27993 0 RESP
+a41925n.dat 16 10/% 16 0 -327680 25130 0 SpO2
+a41925n.dat 16 1/mmHg 16 0 -32768 -3152 0 NBPSys
+a41925n.dat 16 1/mmHg 16 0 -32768 -19551 0 NBPDias
+a41925n.dat 16 1/mmHg 16 0 -32768 -13786 0 NBPMean
+# age:  35   sex:  M
+# see also mimic2db/a41925/a41925 (waveforms)
+# see also mimic2cdb/s25699 (clinical data)
+# other records of this subject: a40525 a41753 

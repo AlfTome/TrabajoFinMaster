@@ -1,0 +1,11 @@
+a41434n 7 0.016666666667 6837  02:05:00 31/08/2012
+a41434n.dat 16 10/bpm 16 0 -327680 -22056 0 HR
+a41434n.dat 16 10/mmHg 16 0 -327680 17511 0 ABPSys
+a41434n.dat 16 10/mmHg 16 0 -327680 22686 0 ABPDias
+a41434n.dat 16 10/mmHg 16 0 -327680 -31331 0 ABPMean
+a41434n.dat 16 10/bpm 16 0 -327680 -32597 0 PULSE
+a41434n.dat 16 10/pm 16 0 -327680 21662 0 RESP
+a41434n.dat 16 10/% 16 0 -327680 7355 0 SpO2
+# age:  71   sex:  F
+# see also mimic2db/a41434/a41434 (waveforms)
+# see also mimic2cdb/s07468 (clinical data)

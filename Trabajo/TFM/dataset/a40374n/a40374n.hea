@@ -1,0 +1,16 @@
+a40374n 12 0.016666666667 33007  03:10:00 23/08/2012
+a40374n.dat 16 10/bpm 16 0 -327680 31435 0 HR
+a40374n.dat 16 10/mmHg 16 0 -327680 1814 0 ABPSys
+a40374n.dat 16 10/mmHg 16 0 -327680 -2850 0 ABPDias
+a40374n.dat 16 10/mmHg 16 0 -327680 1633 0 ABPMean
+a40374n.dat 16 10/mmHg 16 0 -327680 2 0 PAPMean
+a40374n.dat 16 10/mmHg 16 0 -327680 -3395 0 CVP
+a40374n.dat 16 10/bpm 16 0 -327680 -31016 0 PULSE
+a40374n.dat 16 10/pm 16 0 -327680 -30915 0 RESP
+a40374n.dat 16 10/% 16 0 -327680 -3441 0 SpO2
+a40374n.dat 16 1/mmHg 16 0 -32768 -12323 0 NBPSys
+a40374n.dat 16 1/mmHg 16 0 -32768 -24384 0 NBPDias
+a40374n.dat 16 1/mmHg 16 0 -32768 12506 0 NBPMean
+# age:  88   sex:  M
+# see also mimic2db/a40374/a40374 (waveforms)
+# see also mimic2cdb/s22657 (clinical data)

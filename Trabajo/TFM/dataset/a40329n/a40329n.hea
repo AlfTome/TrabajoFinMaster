@@ -1,0 +1,19 @@
+a40329n 15 0.016666666667 15878 14:18:00 15/05/2014
+a40329n.dat 16 10/bpm 16 0 805 28551 0 HR
+a40329n.dat 16 10/mmHg 16 0 1232 -17021 0 ABPSys
+a40329n.dat 16 10/mmHg 16 0 539 15496 0 ABPDias
+a40329n.dat 16 10/mmHg 16 0 814 -6626 0 ABPMean
+a40329n.dat 16 10/mmHg 16 0 474 8338 0 PAPSys
+a40329n.dat 16 10/mmHg 16 0 208 10456 0 PAPDias
+a40329n.dat 16 10/mmHg 16 0 307 15579 0 PAPMean
+a40329n.dat 16 10/mmHg 16 0 82 -28965 0 CVP
+a40329n.dat 16 10/bpm 16 0 1067 -8113 0 PULSE
+a40329n.dat 16 10/pm 16 0 166 5455 0 RESP
+a40329n.dat 16 10/% 16 0 970 15290 0 SpO2
+a40329n.dat 16 1/mmHg 16 0 -32768 7639 0 NBPSys
+a40329n.dat 16 1/mmHg 16 0 -32768 2808 0 NBPDias
+a40329n.dat 16 1/mmHg 16 0 -32768 4376 0 NBPMean
+a40329n.dat 16 100/Lpm 16 0 -3276800 17782 0 CO
+# age:  84   sex:  F
+# see also mimic2db/a40329/a40329 (waveforms)
+# see also mimic2cdb/s23020 (clinical data)

@@ -1,0 +1,17 @@
+a41466n 12 0.016666666667 2581 12:01:00 22/06/2010
+a41466n.dat 16 10/bpm 16 0 -327680 -31689 0 HR
+a41466n.dat 16 10/mmHg 16 0 -327680 29702 0 ABPSys
+a41466n.dat 16 10/mmHg 16 0 -327680 14235 0 ABPDias
+a41466n.dat 16 10/mmHg 16 0 -327680 6461 0 ABPMean
+a41466n.dat 16 10/mmHg 16 0 -327680 32173 0 PAPMean
+a41466n.dat 16 10/mmHg 16 0 -327680 28091 0 CVP
+a41466n.dat 16 10/bpm 16 0 -327680 -1592 0 PULSE
+a41466n.dat 16 10/pm 16 0 -327680 7127 0 RESP
+a41466n.dat 16 10/% 16 0 -327680 11231 0 SpO2
+a41466n.dat 16 1/mmHg 16 0 -32768 -32522 0 NBPSys
+a41466n.dat 16 1/mmHg 16 0 -32768 -32625 0 NBPDias
+a41466n.dat 16 1/mmHg 16 0 -32768 -32587 0 NBPMean
+# age:  66   sex:  M
+# see also mimic2db/a41466/a41466 (waveforms)
+# see also mimic2cdb/s24004 (clinical data)
+# other records of this subject: a41958 

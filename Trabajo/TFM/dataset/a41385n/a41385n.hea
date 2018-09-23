@@ -1,0 +1,14 @@
+a41385n 10 0.016666666667 3252 14:23:00 09/11/2008
+a41385n.dat 16 10/bpm 16 0 -327680 28674 0 HR
+a41385n.dat 16 10/mmHg 16 0 -327680 -24119 0 ABPSys
+a41385n.dat 16 10/mmHg 16 0 -327680 22540 0 ABPDias
+a41385n.dat 16 10/mmHg 16 0 -327680 -17387 0 ABPMean
+a41385n.dat 16 10/bpm 16 0 -327680 15864 0 PULSE
+a41385n.dat 16 10/pm 16 0 -327680 20072 0 RESP
+a41385n.dat 16 10/% 16 0 -327680 -24151 0 SpO2
+a41385n.dat 16 1/mmHg 16 0 -32768 -28634 0 NBPSys
+a41385n.dat 16 1/mmHg 16 0 -32768 -30684 0 NBPDias
+a41385n.dat 16 1/mmHg 16 0 -32768 -30056 0 NBPMean
+# age:  45   sex:  F
+# see also mimic2db/a41385/a41385 (waveforms)
+# see also mimic2cdb/s06180 (clinical data)

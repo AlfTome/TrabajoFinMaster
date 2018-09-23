@@ -1,0 +1,19 @@
+a40006n 15 0.016666666667 5355 16:01:00 02/06/2011
+a40006n.dat 16 10/bpm 16 0 1005 27910 0 HR
+a40006n.dat 16 10/mmHg 16 0 1321 8515 0 ABPSys
+a40006n.dat 16 10/mmHg 16 0 714 14183 0 ABPDias
+a40006n.dat 16 10/mmHg 16 0 892 -11618 0 ABPMean
+a40006n.dat 16 10/mmHg 16 0 473 20273 0 PAPSys
+a40006n.dat 16 10/mmHg 16 0 283 30159 0 PAPDias
+a40006n.dat 16 10/mmHg 16 0 355 -4869 0 PAPMean
+a40006n.dat 16 10/mmHg 16 0 208 -26998 0 CVP
+a40006n.dat 16 10/bpm 16 0 998 26850 0 PULSE
+a40006n.dat 16 10/pm 16 0 227 14864 0 RESP
+a40006n.dat 16 10/% 16 0 995 26593 0 SpO2
+a40006n.dat 16 1/mmHg 16 0 -32768 -30221 0 NBPSys
+a40006n.dat 16 1/mmHg 16 0 -32768 -31652 0 NBPDias
+a40006n.dat 16 1/mmHg 16 0 -32768 1638 0 NBPMean
+a40006n.dat 16 100/Lpm 16 0 -3276800 4218 0 CO
+# age:  80   sex:  F
+# see also mimic2db/a40006/a40006 (waveforms)
+# see also mimic2cdb/s02395 (clinical data)

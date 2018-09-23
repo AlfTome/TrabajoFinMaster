@@ -1,0 +1,17 @@
+a40215n 12 0.016666666667 1749 11:51:00 21/09/2012
+a40215n.dat 16 10/bpm 16 0 -327680 -19308 0 HR
+a40215n.dat 16 10/mmHg 16 0 -327680 -30443 0 ABPSys
+a40215n.dat 16 10/mmHg 16 0 -327680 -28565 0 ABPDias
+a40215n.dat 16 10/mmHg 16 0 -327680 -18001 0 ABPMean
+a40215n.dat 16 10/mmHg 16 0 -327680 -2125 0 PAPMean
+a40215n.dat 16 10/mmHg 16 0 -327680 5420 0 CVP
+a40215n.dat 16 10/bpm 16 0 -327680 -5282 0 PULSE
+a40215n.dat 16 10/pm 16 0 -327680 -5094 0 RESP
+a40215n.dat 16 10/% 16 0 -327680 -15929 0 SpO2
+a40215n.dat 16 1/mmHg 16 0 -32768 2799 0 NBPSys
+a40215n.dat 16 1/mmHg 16 0 -32768 1292 0 NBPDias
+a40215n.dat 16 1/mmHg 16 0 -32768 -30913 0 NBPMean
+# age:  60   sex:  F
+# see also mimic2db/a40215/a40215 (waveforms)
+# see also mimic2cdb/s25222 (clinical data)
+# other records of this subject: a41059 

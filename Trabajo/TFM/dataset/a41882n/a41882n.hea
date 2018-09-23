@@ -1,0 +1,14 @@
+a41882n 10 0.016666666667 14412 17:06:00 04/10/2013
+a41882n.dat 16 10/bpm 16 0 -327680 17587 0 HR
+a41882n.dat 16 10/mmHg 16 0 -327680 -24456 0 ABPSys
+a41882n.dat 16 10/mmHg 16 0 -327680 20275 0 ABPDias
+a41882n.dat 16 10/mmHg 16 0 -327680 -21324 0 ABPMean
+a41882n.dat 16 10/bpm 16 0 -327680 -834 0 PULSE
+a41882n.dat 16 10/pm 16 0 -327680 -9692 0 RESP
+a41882n.dat 16 10/% 16 0 -327680 -11271 0 SpO2
+a41882n.dat 16 1/mmHg 16 0 -32768 -22603 0 NBPSys
+a41882n.dat 16 1/mmHg 16 0 -32768 -28550 0 NBPDias
+a41882n.dat 16 1/mmHg 16 0 -32768 -26597 0 NBPMean
+# age:  89   sex:  F
+# see also mimic2db/a41882/a41882 (waveforms)
+# see also mimic2cdb/s14204 (clinical data)

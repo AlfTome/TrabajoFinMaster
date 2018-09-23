@@ -1,0 +1,12 @@
+a42928n 8 0.016666666667 2898 17:10:00 04/11/2011
+a42928n.dat 16 10/bpm 16 0 1094 -1202 0 HR
+a42928n.dat 16 10/mmHg 16 0 1284 -25573 0 ABPSys
+a42928n.dat 16 10/mmHg 16 0 555 6752 0 ABPDias
+a42928n.dat 16 10/mmHg 16 0 789 -12070 0 ABPMean
+a42928n.dat 16 10/mmHg 16 0 577 25736 0 CVP
+a42928n.dat 16 10/bpm 16 0 1096 -8922 0 PULSE
+a42928n.dat 16 10/pm 16 0 154 -2368 0 RESP
+a42928n.dat 16 10/% 16 0 960 -23641 0 SpO2
+# age:  78   sex:  M
+# see also mimic2cdb/s06637 (clinical data)
+# other records of this subject: a42567 

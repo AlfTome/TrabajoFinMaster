@@ -1,0 +1,15 @@
+a40234n 11 0.016666666667 23626 21:24:00 30/11/2008
+a40234n.dat 16 10/bpm 16 0 -327680 3256 0 HR
+a40234n.dat 16 10/mmHg 16 0 -327680 2457 0 ABPSys
+a40234n.dat 16 10/mmHg 16 0 -327680 23279 0 ABPDias
+a40234n.dat 16 10/mmHg 16 0 -327680 -14865 0 ABPMean
+a40234n.dat 16 10/mmHg 16 0 -327680 -24570 0 CVP
+a40234n.dat 16 10/bpm 16 0 -327680 379 0 PULSE
+a40234n.dat 16 10/pm 16 0 -327680 28252 0 RESP
+a40234n.dat 16 10/% 16 0 -327680 1746 0 SpO2
+a40234n.dat 16 1/mmHg 16 0 -32768 -11425 0 NBPSys
+a40234n.dat 16 1/mmHg 16 0 -32768 26422 0 NBPDias
+a40234n.dat 16 1/mmHg 16 0 -32768 -29710 0 NBPMean
+# age:  82   sex:  F
+# see also mimic2db/a40234/a40234 (waveforms)
+# see also mimic2cdb/s24923 (clinical data)

@@ -1,0 +1,15 @@
+a41447n 10 0.016666666667 5880 18:22:00 17/10/2014
+a41447n.dat 16 10/bpm 16 0 -327680 -6272 0 HR
+a41447n.dat 16 10/mmHg 16 0 -327680 -3744 0 ABPSys
+a41447n.dat 16 10/mmHg 16 0 -327680 -16968 0 ABPDias
+a41447n.dat 16 10/mmHg 16 0 -327680 9392 0 ABPMean
+a41447n.dat 16 10/bpm 16 0 -327680 -9386 0 PULSE
+a41447n.dat 16 10/pm 16 0 -327680 1764 0 RESP
+a41447n.dat 16 10/% 16 0 -327680 -793 0 SpO2
+a41447n.dat 16 1/mmHg 16 0 -32768 8098 0 NBPSys
+a41447n.dat 16 1/mmHg 16 0 -32768 4195 0 NBPDias
+a41447n.dat 16 1/mmHg 16 0 -32768 -27101 0 NBPMean
+# age:  85   sex:  M
+# see also mimic2db/a41447/a41447 (waveforms)
+# see also mimic2cdb/s20794 (clinical data)
+# other records of this subject: a40752 

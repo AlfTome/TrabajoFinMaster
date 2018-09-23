@@ -1,0 +1,16 @@
+a40012n 12 0.016666666667 6750 18:04:00 07/11/2014
+a40012n.dat 16 10/bpm 16 0 -327680 8783 0 HR
+a40012n.dat 16 10/mmHg 16 0 -327680 -23290 0 ABPSys
+a40012n.dat 16 10/mmHg 16 0 -327680 -13187 0 ABPDias
+a40012n.dat 16 10/mmHg 16 0 -327680 6143 0 ABPMean
+a40012n.dat 16 10/mmHg 16 0 -327680 -78 0 PAPMean
+a40012n.dat 16 10/mmHg 16 0 -327680 15499 0 CVP
+a40012n.dat 16 10/bpm 16 0 -327680 -3283 0 PULSE
+a40012n.dat 16 10/pm 16 0 -327680 645 0 RESP
+a40012n.dat 16 10/% 16 0 -327680 26746 0 SpO2
+a40012n.dat 16 1/mmHg 16 0 -32768 -30202 0 NBPSys
+a40012n.dat 16 1/mmHg 16 0 -32768 -31481 0 NBPDias
+a40012n.dat 16 1/mmHg 16 0 -32768 1782 0 NBPMean
+# age:  58   sex:  M
+# see also mimic2db/a40012/a40012 (waveforms)
+# see also mimic2cdb/s08779 (clinical data)
